@@ -37,5 +37,7 @@
 例如:git branch -f main HEAD~3（波浪号，esc下面的键）
 上面的命令会将 main 分支强制指向 HEAD 的第 3 级 parent 提交。
 HEAD似乎是强制要求的指令
+
 18. 
 
+19. 
